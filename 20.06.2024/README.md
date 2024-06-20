@@ -27,7 +27,7 @@ AI and Blockchain Integration Services: Consulting services and solutions to opt
 <p>Google AI is a division of Google specializing in the development and deployment of advanced artificial intelligence technologies. Partnering with Google AI allows Ainomo to integrate the most advanced machine learning and AI algorithms into our trading platforms and solutions.</p>
 <p><b>Joint Projects with IBM Blockchain</b></p>
 <p>IBM Blockchain is a leading developer of enterprise blockchain solutions that provide security and scalability. Collaboration with IBM Blockchain allows Ainomo to develop and implement advanced blockchain solutions that meet the high requirements of corporate clients.</p>
-<p><b>Outlook and Impact</b></p>
+<h2>Outlook and Impact</h2>
 <p>Strategic partnerships allow Ainomo to not only accelerate the development and implementation of innovative solutions, but also significantly expand our presence in the global market. Together with our partners, we aim to make financial markets more accessible, transparent and efficient by leveraging the power of AI and blockchain technologies.</p>
 <p>When developing the new platform, special attention was paid to usability and improving the user experience. An intuitive interface, quick access to key features and personalized recommendations make the platform easy and enjoyable for users of all levels.</p>
 <p>We are confident that our innovation and industry leadership will help change the financial landscape, making it fairer and more transparent for all participants. Ainomo continues to invest in research and development, striving to continuously improve and expand its capabilities.</p>
