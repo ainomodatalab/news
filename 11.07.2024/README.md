@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/454dae5b80ae8f7960d5f02ece7462ec7eb9c5db/11.07.2024/image.png" alt="image">
 <br>
 <h1><b>A new era of AI thanks to Blockchain integration</b></h1>
 <p><i>In today's world, digital transformation is becoming the foundation of progress, and we at Ainomo are proud to play a key role in this process. Our company is one of the leading developers in artificial intelligence (AI) and blockchain technologies. We strive not just to keep up with technology trends, but to create them, shaping the future together with our partners and customers.</i></p>
