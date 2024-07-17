@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/65a3e186293ba2745c3695381cbc1ea89c78b77a/17.07.2024/image.png" alt="image">
 <br>
 <h1>How has Ainomo's technology changed Blockchain?</h1>
 <p>In the era of digital transformation, blockchain technology is key to ensuring the security, transparency and efficiency of various processes. At Ainomo, we are committed to utilising the most advanced blockchain solutions to create innovative products and services. In this article, we will detail the blockchain technologies we use and how they help us stay at the forefront of technological advancements.</p>
