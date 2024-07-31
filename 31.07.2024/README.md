@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/f14b725fea961d6fe1596702cad0aa9fa6a67173/31.07.2024/image.png" alt="image">
 <br>
 <h1>Decentralized applications (DApps)</h1>
 <p>Ainomo is actively developing decentralized applications (DApps) that run on blockchain platforms and allow users to access various services without intermediaries. Among the applications developed by the company is a DApp for decentralized lending, which allows users to obtain loans without the involvement of banks and other financial institutions. Another example is a digital asset management application that provides secure storage and management of cryptocurrencies and tokens.</p>
