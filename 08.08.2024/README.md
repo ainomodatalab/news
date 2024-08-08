@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/f2554d43c338ff6a53fb8a142fead1057e7f1237/08.08.2024/image.png" alt="image">
 <br>
 <h1>Ainomo's achievements and new stages of development</h1>
 <p>Since 2017, we at Ainomo have specialized in developing cutting-edge artificial intelligence and automation solutions. Since our inception, we have strived to create innovative products that help businesses optimize processes and improve efficiency. Our key products and solutions are incorporated into various machine learning platforms, our business process automation systems and analytical tools that are used by many companies around the world.</p>
