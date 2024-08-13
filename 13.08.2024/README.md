@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/f4d76f917d8ac3d7695dcc8cc8f73486d4df7fc6/13.08.2024/image.jpg" alt="image">
 <br>
 <h1>Ainomo's arbitrage trading service: Artificial Intelligence in action</h1>
 <p>In the world of financial technology and cryptocurrencies, arbitrage trading has become one of the most effective ways to profit. We too are trying to keep up with these trends and at Ainomo we are introducing a new and improved arbitrage trading service that is powered by advanced artificial intelligence (AI) technology. Our solution allows investors to generate stable profits by minimizing risks and optimizing processes.</p>
