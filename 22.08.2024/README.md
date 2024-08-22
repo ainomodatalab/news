@@ -1,0 +1,20 @@
+<img src="" alt="image">
+<br>
+<h1>Blockchain-based AI Autotrading: The Future of Algorithmic Trading</h1>
+<p>In the world of financial technology, autotrading has become a powerful tool for investors, allowing them to automate the trading process and optimize profits. We at Ainomo are pleased to introduce our innovative autotrading service that combines the power of artificial intelligence (AI) and blockchain technologies. This solution is designed to provide investors with a reliable and efficient tool to manage their assets in the rapidly changing world of cryptocurrencies.</p>
+<p>Ainomo's artificial intelligence integrated into the auto-trading system analyzes the markets in real time, finding optimal trading opportunities and automatically executing trades. This eliminates the human factor and significantly increases trading efficiency. All information about trades is recorded in an immutable register, which guarantees their authenticity and security.</p>
+<p>Our AI is capable of analyzing and managing a portfolio of assets, selecting optimal strategies to maximize returns while minimizing risk. This includes dynamic rebalancing of assets depending on market conditions.</p>
+<p><b>The main adaptive trading strategy that uses Ainomo's AI:<b></p>
+<ul>
+<li> Trend strategies: These strategies are based on identifying and following market trends. AI analyzes historical data to predict the beginning and end of trends, helping traders make decisions to buy or sell assets.</li>
+<li> Strategies based on news sensitivity: AI can analyze news and social media to predict market reactions to events. This allows traders to react quickly to news and make informed decisions.</li>
+<li> High Frequency Trading (HFT): HFT uses powerful algorithms to execute a large number of trades in a short period of time. AI helps optimize these strategies, ensuring maximum speed and minimum latency.</li>
+</ul>
+<p><b>Here are some technical details of how our algorithms work to better understand the AI model:<b></p>
+<p>Ainomo uses a machine learning algorithm to predict prices. This allows the neural network to train on historical data such as prices, trading volumes and economic indicators. Using regression techniques to create a model that can predict future price movements. Input data is passed through multiple layers of the neural network, where each layer performs certain calculations to identify patterns.</p>
+<p>The neural network is trained to recognize various market signals such as trends or reversals. The network receives input data in the form of time series and analyzes it using convolution and pooling methods to identify significant patterns. The network outputs forecasts that are used to make trading decisions.</p>
+<p>Our autotrading is based on powerful machine learning algorithms that are trained on large volumes of historical data. This allows our AI to predict market behavior and find the most profitable trading opportunities. </p>
+<p>To execute trades, we use a model layer based on a smart contract that is automatically executed when certain conditions occur. In algorithmic trading, a smart contract is used to automatically execute orders to buy or sell assets when certain price levels are reached.
+All transactions conducted using blockchain are recorded in a public, distributed database, allowing all participants in the network to track and verify each transaction. This eliminates the possibility of fraud and ensures a high level of trust among participants.</p>
+<p>Ainomo's AI-enabled autotrading represents the future of algorithmic trading. These technologies allow traders to optimize their strategies, minimize risks and ensure a high level of security and transparency of transactions.</p>
+<p>We use tokenization to manage digital assets, which allows them to be easily transferred and traded on blockchain platforms. This makes the trading process more flexible and accessible to investors.</p>
