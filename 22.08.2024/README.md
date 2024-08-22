@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/7d92498388c6abd3b677375745c1d51c070d2d4a/22.08.2024/image.jpg" alt="image">
 <br>
 <h1>Blockchain-based AI Autotrading: The Future of Algorithmic Trading</h1>
 <p>In the world of financial technology, autotrading has become a powerful tool for investors, allowing them to automate the trading process and optimize profits. We at Ainomo are pleased to introduce our innovative autotrading service that combines the power of artificial intelligence (AI) and blockchain technologies. This solution is designed to provide investors with a reliable and efficient tool to manage their assets in the rapidly changing world of cryptocurrencies.</p>
