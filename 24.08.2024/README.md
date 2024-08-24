@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/4824a60ed9dd6fcf70b96ee07eda089e216798e9/24.08.2024/image.png" alt="image">
 <br>
 <h1>Bitcoin price taps $64K</h1>
 <p>Bitcoin bulls charge into key BTC price resistance as the US Federal Reserve gives a clear signal regarding interest rate cuts.</p>
