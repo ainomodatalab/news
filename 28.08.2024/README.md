@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/853e7c5d2414adc9b349a0677ec4d14e8ae8879d/28.08.2024/image.jpg" alt="image">
 <br>
 <h1>Liquidity pools: Why are they needed and how do investors get returns?</h1>
 <p>Liquidity pools have become an important element in the decentralized finance (DeFi) ecosystem. They provide liquidity for various financial transactions and allow investors to generate passive income. One of the main objectives of liquidity pools is to provide sufficient assets for trading operations.</p>
