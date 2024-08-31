@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/95714bf9684e6144a6f090471718783793f31145/31.08.2024/image.png" alt="image">
 <br>
 <h1>AI smart contracts: blockchain-based automation</h1>
 <p>An AI smart contract is a digital agreement that combines the security of blockchain technology with the intelligence of artificial intelligence. Unlike traditional contracts, these are self-executing agreements that automatically enforce terms based on predefined conditions.
