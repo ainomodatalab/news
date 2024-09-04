@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/65efccb51b108ce3fe3654699118f33e42ccb2da/04.09.2024/image.jpg" alt="image">
 <br>
 <h1>Options and Derivatives from Ainomo: Innovative Solutions for the Modern Trader</h1>
 <p>In the rapidly changing world of financial markets, traders are looking for new and effective tools to manage risk and maximize returns. Options and derivatives provide such opportunities, offering flexibility and a variety of strategies for trading. At Ainomo, we are proud to offer innovative options and derivatives solutions developed using advanced artificial intelligence technology.
