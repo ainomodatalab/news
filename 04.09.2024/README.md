@@ -18,7 +18,7 @@
 <ul>
 <li>Cryptocurrency Options: We offer options on major cryptocurrencies such as Bitcoin and Ethereum. This allows traders to hedge their positions and utilize market volatility to profit.
 </li>
-<li>- Futures and Perpetuals: Our futures contracts and perpetuals provide leverage trading opportunities that increase the potential for returns.
+<li>Futures and Perpetuals: Our futures contracts and perpetuals provide leverage trading opportunities that increase the potential for returns.
 </li>
 </ul>
 <p>These instruments are particularly useful for short-term strategies and arbitrage.
