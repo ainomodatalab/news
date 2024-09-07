@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/ff7c942f91c938bd71fcf7c3e399b4d95804e1ca/07.09.2024/image.jpg" alt="image">
 <br>
 <h1>AI in cryptosecurity</h1>
 <p>In the rapidly evolving crypto-economy, the line between innovation and regulation is constantly being redrawn. As cryptocurrencies gain mainstream acceptance, they are also becoming a new frontier for financial crime, including money laundering, fraud and terrorist financing.
