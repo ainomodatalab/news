@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/cb2e8be1ae8f245f9a4350e17f728d120d226f57/09.09.2024/image.png" alt="image">
 <br>
 <h1>Layer 1 Blockchain Ainomo: Innovative Platform for the Future</h1>
 <p>In the era of digital transformation, blockchain technology plays an important role in ensuring the security, transparency and efficiency of various processes. At Ainomo, we are proud to have developed our own Layer 1 blockchain, which will be the basis for many innovative solutions, and we are working on improving it every day.
