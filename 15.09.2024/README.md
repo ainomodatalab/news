@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/ed49ba16ef753049daf42f99bef14f9ab1a0ad7e/15.09.2024/image.jpg" alt="image">
 <br>
 <h1>AI and blockchain: A symbiotic revolution in the digital age </h1>
 <p>The combination of AI and Blockchain represents a new frontier in the digital age—one where abundance meets scarcity, where intelligence meets trust and centralized becomes decentralized.</p>
