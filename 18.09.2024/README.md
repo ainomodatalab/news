@@ -1,9 +1,9 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/9e3b08ead7f655892a65777edf0ff85831d31015/18.09.2024/image.jpg" alt="image">
 <br>
 <h1>How can AI help predict quote movements in the cryptocurrency market?</h1>
 <p>We at Ainomo are pleased to present our new achievements in the field of predicting quote movements on the cryptocurrency market. Modern financial markets are characterized by high volatility and difficulty in forecasting. This is especially true for the cryptocurrency market, where sharp price fluctuations can occur within minutes. In such conditions, traditional methods of analysis are often insufficient, so we are actively developing and implementing AI-based solutions that can significantly improve the accuracy of forecasts and provide traders with a powerful tool for making informed decisions.
 </p>
-<p>Our AI models are based on deep learning and Big Data (https://en.wikipedia.org/wiki/Big_data) analysis. They utilize neural networks that process a vast amount of information, including historical data on cryptocurrency prices, trading volumes, social media and news, economic indicators and macroeconomic indicators. The advantage of our models lies in their ability to analyze billions of rows of data in real time, revealing hidden patterns and trends that cannot be detected using traditional analysis methods.
+<p>Our AI models are based on deep learning and Big Data analysis. They utilize neural networks that process a vast amount of information, including historical data on cryptocurrency prices, trading volumes, social media and news, economic indicators and macroeconomic indicators. The advantage of our models lies in their ability to analyze billions of rows of data in real time, revealing hidden patterns and trends that cannot be detected using traditional analysis methods.
 </p>
 <p>Over the last 6 months, our AI models have shown an average forecast accuracy of 87%, which is significantly higher than traditional technical analysis methods. In tests on historical data, our algorithms predicted major market movements with an accuracy of up to 92%. These results speak for themselves and demonstrate the potential of AI in financial forecasting.
 </p>
