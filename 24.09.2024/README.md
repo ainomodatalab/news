@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/896158da1caf85c759077379d26bb3ee1e8476a2/24.09.2024/image.png" alt="image">
 <br>
 <h1>Main advantages of smart contracts</h1>
 <p>We at Ainomo, a leading artificial intelligence and blockchain technology company, are pleased to share our views on the key benefits of smart contracts and their potential in various fields.</p>
