@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/9951dbf4e244f6493cdcdde924d4b657f81743fb/27.09.2024/image.jpg" alt="image">
 <br>
 <h1>AI and oracles in smart contracts: creating robust decentralized solutions for external data
 </h1>
