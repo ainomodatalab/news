@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/f079f746335f749dd526da952ef5db5322613512/02.10.2024/image.jpg" alt="image">
 <br>
 <h1>How does AI improve the security of smart contracts on the blockchain?
 </h1>
