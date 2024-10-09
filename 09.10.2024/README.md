@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/5160c9a260fac077f95a4b0258027ac2e7307e78/09.10.2024/image.jpg" alt="image">
 <br>
 <h1>Microservice architecture and cloud technology in Ainomo
 </h1>
