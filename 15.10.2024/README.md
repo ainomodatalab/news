@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/50a261d3ddda6de3097e379e592e0aba1121d6bf/15.10.2024/image.png" alt="image">
 <br>
 <h1>Ainomo Blockchain scanner - openness and transparency of the network.
 </h1>
