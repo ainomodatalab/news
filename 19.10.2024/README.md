@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/15f72438c7ba0ac4bdaf2e3dc06eaa971c30bbb8/19.10.2024/image.png" alt="image">
 <br>
 <h1>Using CrossChain Bridges: Advantages
 </h1>
