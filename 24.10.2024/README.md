@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/afcf217acad2f074d9d56e75eaa05d708040b666/24.10.2024/image.png" alt="image">
 <br>
 <h1>Why smart-contracts need security audits?
 </h1>
