@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/b17dae0e40365826ba00d140e5e3b092ea3fae57/26.10.2024/image.png" alt="image">
 <br>
 <h1>Ainomo lending: Get additional funds to increase profits by increasing trading volumes
 </h1>
