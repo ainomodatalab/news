@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/a049976066c6e7488af5df863d34b47fd3c39f55/30.10.2024/image.png" alt="image">
 <br>
 <h1>How Ainomo's technology contributes to the sustainability of blockchain transactions
 </h1>
