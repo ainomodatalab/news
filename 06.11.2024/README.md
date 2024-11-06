@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/17186af22b18b52ce3e9d2d5e72ad447ef7b7844/06.11.2024/image.png" alt="image">
 <br>
 <h1>Ainomo's initiatives in using AI to improve customer experience
 </h1>
