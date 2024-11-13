@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/b2e0e7d4cd3213b15486a07fdbfcad8b5c9a92ad/13.11.2024/image.png" alt="image">
 <br>
 <h1>The future of AI-powered cybersecurity solutions from Ainomo
 </h1>
