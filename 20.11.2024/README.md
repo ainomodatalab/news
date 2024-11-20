@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/81572077b74ab38ec74d212dbf7da6d346387031/20.11.2024/image.png" alt="image">
 <br>
 <h1>Challenges and solutions to scaling AI operations in global financial markets by Ainomo
 </h1>
