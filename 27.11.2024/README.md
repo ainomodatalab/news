@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/b88008a8ffa43feeee8b94567e431976d25def34/27.11.2024/image.png" alt="image">
 <br>
 <h1>Ainomo's strategic moves into decentralized finance (DeFi)
 </h1>
