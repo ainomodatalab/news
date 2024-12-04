@@ -17,12 +17,12 @@
 </ul>
 <p>Technologies:
 </p>
-<<ul>
+<ul>
 <li>Blockchain At the heart of Web3 is blockchain, a distributed ledger technology that records transactions across a network of computers. Each transaction is verified by consensus mechanisms such as Proof of Work (PoW) or Proof of Stake (PoS), ensuring transparency and security without requiring a centralized authority.
 </li>
 <li>Smart Contracts Smart contracts are programmable agreements that execute automatically when predefined conditions are met. These contracts are deployed on blockchain networks and eliminate the need for intermediaries in processes like financial transactions, legal agreements, and supply chain management.
 </li>
-<li>- Decentralized Applications (DApps) DApps run on blockchain networks instead of centralized servers, offering users direct interactions without intermediaries. They are widely used in sectors like finance (DeFi), gaming, and content sharing, providing transparent, secure, and censorship-resistant services.
+<li>Decentralized Applications (DApps) DApps run on blockchain networks instead of centralized servers, offering users direct interactions without intermediaries. They are widely used in sectors like finance (DeFi), gaming, and content sharing, providing transparent, secure, and censorship-resistant services.
 </li>
 </ul>
 <p>Understanding Artificial Intelligence (AI):
