@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/a2cd93f0d3149c76c7253cdfaca91390e65c4d19/04.12.2024/image.png" alt="image">
 <br>
 <h1>AI & WEB3</h1>
 <p>The advent of Web3 technology has revolutionized the digital landscape, introducing a paradigm shift toward a decentralized internet that prioritizes user control, transparency, and efficiency. Web3 envisions an internet where power is redistributed from centralized entities to individual users through blockchain-based technologies, smart contracts, and decentralized applications (dApps). This foundational shift challenges the traditional Web2 model, where data is primarily owned and monetized by centralized platforms, empowering users to reclaim ownership of their digital assets and data.
