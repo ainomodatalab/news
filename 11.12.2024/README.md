@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/2a7e2adbc6c07a7fe14ec0bef828d4b981ca5706/11.12.2024/image.png" alt="image">
 <br>
 <h1>Using AI to analyze transactions and identify market trends</h1>
 <p>With the development of blockchain technology and cryptocurrencies, the world has seen an unprecedented growth in transaction data. Millions of transactions are made every day, generating huge amounts of information that can be used to analyze market trends. Artificial Intelligence (AI) is becoming an indispensable tool to effectively analyze this data, allowing you to identify patterns and predict changes in the market. 
