@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/f06e38aa71d8ccfcb2932e60d94b8d64c6a7f105/18.12.2024/image.png" alt="image">
 <br>
 <h1>Microservices + AI: optimizing complex systems through modern approaches</h1>
 <p>In the world of modern technology, where speed and flexibility are becoming key success factors, companies are looking for new ways to optimize their IT ecosystems. The Ainomo team is convinced: the combination of microservice architecture and artificial intelligence (AI) is not just a trend, but a strategic step towards creating high-performance solutions.
