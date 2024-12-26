@@ -1,4 +1,4 @@
-<img src="" alt="image">
+<img src="https://github.com/ainomodatalab/news/blob/2da9232efeb3878380cc2cfa82a177a1b7dc81db/26.12.2024/image.png" alt="image">
 <br>
 <h1>Artificial intelligence and security in the crypto network: the future from Ainomo
 </h1>
